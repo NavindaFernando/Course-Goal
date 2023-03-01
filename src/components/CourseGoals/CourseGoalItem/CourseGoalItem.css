@@ -1,0 +1,21 @@
+.goal-item {
+  margin: 1rem 0;
+  background: #ffffff;
+  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26); */
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border-radius: 12px;
+
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  
+}
+
+.goal-item:hover {
+  transform: translateY(-6px);
+}
